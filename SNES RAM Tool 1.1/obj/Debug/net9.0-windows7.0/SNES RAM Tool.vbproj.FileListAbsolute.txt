@@ -1,0 +1,16 @@
+E:\My Projects VB2026\SNES RAM Tool 1.1\bin\Debug\net9.0-windows7.0\SNES RAM Tool.exe
+E:\My Projects VB2026\SNES RAM Tool 1.1\bin\Debug\net9.0-windows7.0\SNES RAM Tool.deps.json
+E:\My Projects VB2026\SNES RAM Tool 1.1\bin\Debug\net9.0-windows7.0\SNES RAM Tool.runtimeconfig.json
+E:\My Projects VB2026\SNES RAM Tool 1.1\bin\Debug\net9.0-windows7.0\SNES RAM Tool.dll
+E:\My Projects VB2026\SNES RAM Tool 1.1\bin\Debug\net9.0-windows7.0\SNES RAM Tool.pdb
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES_RAM_Tool.Form1.resources
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.vbproj.GenerateResource.cache
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.AssemblyInfoInputs.cache
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.AssemblyInfo.vb
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.vbproj.CoreCompileInputs.cache
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.dll
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\refint\SNES RAM Tool.dll
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.pdb
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\SNES RAM Tool.genruntimeconfig.cache
+E:\My Projects VB2026\SNES RAM Tool 1.1\obj\Debug\net9.0-windows7.0\ref\SNES RAM Tool.dll
